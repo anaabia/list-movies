@@ -1,0 +1,5 @@
+.list-movies{
+  ol{
+      list-style-type: none;
+  }
+}
